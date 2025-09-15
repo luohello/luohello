@@ -27,15 +27,7 @@
 
 ## 📫 Contact Me
 - **Email**: [Luohello@bupt.edu.cn](mailto:your-email@example.com)  
-  *Tips: Replace "your-email@example.com" with your actual email address*
 
 
 ## 📊 Contribution Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luohello&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/luohello)
-
-
-### Notes
-1. Replace `your-email@example.com` with your real email address to enable contact functionality.
-2. The GitHub stats and streak cards will automatically update based on your repository activities and contribution history.
-3. If you want to adjust the theme of the cards, modify the `theme` parameter (options: `tokyonight`, `radical`, `merko`, `gruvbox`, `dark`, `vue` etc.).
-4. To hide specific repositories from the "Top Languages" card, add their names to the `exclude_repo` parameter (separated by commas).
