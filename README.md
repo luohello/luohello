@@ -14,8 +14,8 @@
 ### Platforms & Profiles
 | Platform | Profile Link | Key Achievements |
 |----------|--------------|------------------|
-| Codeforces | [luohello](https://codeforces.com/profile/luohello) | - Contest Rating: 1131 (Max. Newbie)<br>- Total Solved: 92 problems<br>- 5-day max consecutive practice streak |
-| LeetCode | [luohello](https://leetcode.cn/u/luohello/) | - Contest Score: 1830<br>- Global Ranking: 47,423/774,407<br>- Total Solved: 121 problems (Pass Rate: 64.96%)<br>- Difficulty Distribution: Easy(26) / Medium(72) / Hard(23)<br>- Skills: Data Structure, Dynamic Programming, Greedy, Hash Table, Heap, Sliding Window |
+| Codeforces | [luohello](https://codeforces.com/profile/luohello) | - Contest Rating: 1272 (Max. pupil)<br>- Total Solved: 102 problems<br>- |
+| LeetCode | [luohello](https://leetcode.cn/u/luohello/) | - Contest Score: 1830<br>- Global Ranking: 47,423/774,407<br>- Total Solved: 126 problems (Pass Rate: 64.96%)<br>- Difficulty Distribution: Easy(26) / Medium(76) / Hard(24)<br>- Skills: Data Structure, Dynamic Programming, Greedy, Hash Table, Heap, Sliding Window |
 | Luogu | [lawhello](https://www.luogu.com.cn/user/1196460) | - Total Submissions: 980<br>- Solved Problems: 302<br>- Rank: Top 9k<br>- Rating: 1473 |
 
 ### Technical Stack
